@@ -1,3 +1,6 @@
 [submodule "inventory"]
 	path = inventory
 	url = https://github.com/aya894/inventory.git
+[submodule "schedule"]
+	path = schedule
+	url = https://github.com/aya894/schedule.git
