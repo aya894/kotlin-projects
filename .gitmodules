@@ -16,3 +16,6 @@
 [submodule "Mars-Photos"]
 	path = Mars-Photos
 	url = https://github.com/aya894/Mars-Photos.git
+[submodule "Race-Tracker"]
+	path = Race-Tracker
+	url = https://github.com/aya894/Race-Tracker.git
