@@ -4,3 +4,6 @@
 [submodule "schedule"]
 	path = schedule
 	url = https://github.com/aya894/schedule.git
+[submodule "AmphibianCard"]
+	path = AmphibianCard
+	url = https://github.com/aya894/AmphibianCard.git
