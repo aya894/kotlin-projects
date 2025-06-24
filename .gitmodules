@@ -7,3 +7,6 @@
 [submodule "AmphibianCard"]
 	path = AmphibianCard
 	url = https://github.com/aya894/AmphibianCard.git
+[submodule "Bookshelf"]
+	path = Bookshelf
+	url = https://github.com/aya894/Bookshelf.git
