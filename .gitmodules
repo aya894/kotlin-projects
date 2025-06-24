@@ -10,3 +10,6 @@
 [submodule "Bookshelf"]
 	path = Bookshelf
 	url = https://github.com/aya894/Bookshelf.git
+[submodule "training_mars_photos"]
+	path = training_mars_photos
+	url = https://github.com/aya894/training_mars_photos.git
