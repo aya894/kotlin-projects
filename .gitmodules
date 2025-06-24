@@ -13,3 +13,6 @@
 [submodule "training_mars_photos"]
 	path = training_mars_photos
 	url = https://github.com/aya894/training_mars_photos.git
+[submodule "Mars-Photos"]
+	path = Mars-Photos
+	url = https://github.com/aya894/Mars-Photos.git
