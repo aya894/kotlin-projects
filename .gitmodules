@@ -43,3 +43,6 @@
 [submodule "carteVisite"]
 	path = carteVisite
 	url = https://github.com/aya894/carteVisite.git
+[submodule "composeQuadrant"]
+	path = composeQuadrant
+	url = https://github.com/aya894/composeQuadrant.git
