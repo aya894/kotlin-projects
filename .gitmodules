@@ -46,3 +46,6 @@
 [submodule "composeQuadrant"]
 	path = composeQuadrant
 	url = https://github.com/aya894/composeQuadrant.git
+[submodule "taskCompleted"]
+	path = taskCompleted
+	url = https://github.com/aya894/taskCompleted.git
