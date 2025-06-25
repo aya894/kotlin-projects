@@ -34,3 +34,6 @@
 [submodule "lemonade"]
 	path = lemonade
 	url = https://github.com/aya894/lemonade.git
+[submodule "Dice-Roller"]
+	path = Dice-Roller
+	url = https://github.com/aya894/Dice-Roller.git
