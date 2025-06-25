@@ -40,3 +40,6 @@
 [submodule "jetpackCompose"]
 	path = jetpackCompose
 	url = https://github.com/aya894/jetpackCompose.git
+[submodule "carteVisite"]
+	path = carteVisite
+	url = https://github.com/aya894/carteVisite.git
