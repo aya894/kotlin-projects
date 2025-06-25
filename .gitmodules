@@ -28,3 +28,6 @@
 [submodule "Art-Space"]
 	path = Art-Space
 	url = https://github.com/aya894/Art-Space.git
+[submodule "Tip-Time"]
+	path = Tip-Time
+	url = https://github.com/aya894/Tip-Time.git
