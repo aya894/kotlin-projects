@@ -19,3 +19,6 @@
 [submodule "Race-Tracker"]
 	path = Race-Tracker
 	url = https://github.com/aya894/Race-Tracker.git
+[submodule "Dessert-Clicker"]
+	path = Dessert-Clicker
+	url = https://github.com/aya894/Dessert-Clicker.git
