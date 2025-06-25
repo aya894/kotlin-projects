@@ -37,3 +37,6 @@
 [submodule "Dice-Roller"]
 	path = Dice-Roller
 	url = https://github.com/aya894/Dice-Roller.git
+[submodule "jetpackCompose"]
+	path = jetpackCompose
+	url = https://github.com/aya894/jetpackCompose.git
