@@ -49,3 +49,6 @@
 [submodule "taskCompleted"]
 	path = taskCompleted
 	url = https://github.com/aya894/taskCompleted.git
+[submodule "happy_birthday"]
+	path = happy_birthday
+	url = https://github.com/aya894/happy_birthday.git
