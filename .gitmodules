@@ -25,3 +25,6 @@
 [submodule "basic-android-kotlin-compose-training-unscramble"]
 	path = basic-android-kotlin-compose-training-unscramble
 	url = https://github.com/aya894/basic-android-kotlin-compose-training-unscramble.git
+[submodule "Art-Space"]
+	path = Art-Space
+	url = https://github.com/aya894/Art-Space.git
